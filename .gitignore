@@ -1,2 +1,4 @@
 # Compiled Python Files
 *.pyc
+venv/
+.idea/
