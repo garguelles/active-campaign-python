@@ -19,4 +19,4 @@ if __name__ == '__main__':
        'p[1]': 1,
        'status[1]': 1,
     }
-    print ac.api('subscriber/edit', subscriber)
+    print(ac.api('subscriber/edit', subscriber))
